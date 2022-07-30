@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "thumbnail": "/2.jpg",
+        "category": "About you",
+        "date": "Ngeselin😫",
+        "title": "Kamu adalah pacar yang paling ngeselin, tapi ngangenin gajelas dah ada aja yang diributin sama kamu, kayak masalah es jeruk, rambut nempel di helm ada aja ama kamu mah wkwkwk tapi itu jadi cerita seru ajasih wkwk",
+        "authorAvatar": "/3.png",
+        "authorName": "Bagas Ganteng",
+        "authorLove": "Ur Boyfriend"
+    },
+    {
+        "id": 2,
+        "thumbnail": "/3.jpg",
+        "category": "About you",
+        "date": "Curangggg😖",
+        "title": "Kamu adalah orag curang alias, aku lagi ngambek bete api malah kamu betein balik sebel bangettttttttttt. ngeselin banget ujungnya malah aku yang minta maaf dasar curanggggg",
+        "authorAvatar": "/3.png",
+        "authorName": "Pacar Terlucu",
+        "authorLove": "Ur Boyfriend"
+    },
+    {
+        "id": 3,
+        "thumbnail": "/1.png",
+        "category": "About you",
+        "date": "Tukang ngambek😡",
+        "title": "Satu lagiiii, aku bingung kalo ketemu kaga berantem kalo chatan berantem mulu. Aku bingung juga kamu kalo ga ketemu aku misalnya 2-3 hari ngamuknyaaa yaallah aku ampe bingung kadang wkwk, emang clingny aja kamu mah wkwk",
+        "authorAvatar": "/3.png",
+        "authorName": "Pacar Ngeselin",
+        "authorLove": "Ur Boyfriend"
+    }
+]
